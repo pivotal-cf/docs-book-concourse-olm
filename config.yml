@@ -15,7 +15,7 @@ sections:
 - repository:
     name: pivotal-cf/docs-concourse-olm
     ref: '3.x'
-  directory: p-concourse
+  directory: p-concourse/3-0
   subnav_template: concourse-olm-subnav.erb
 
 
