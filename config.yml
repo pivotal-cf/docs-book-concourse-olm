@@ -14,7 +14,7 @@ elastic_search: true
 sections:
 - repository:
     name: pivotal-cf/docs-concourse-olm
-    ref: '4.x'
+    ref: 'master'
   directory: p-concourse/4-0
   subnav_template: concourse-olm-subnav-4-0.erb
   product_info:
