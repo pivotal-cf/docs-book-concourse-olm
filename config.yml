@@ -1,4 +1,4 @@
----
+ls---
 book_repo: pivotal-cf/docs-book-concourse-olm
 layout_repo: pivotal-cf/docs-layout-repo
 
@@ -20,7 +20,7 @@ sections:
   product_info:
     use_local_header: true
     latest_stable_version: "3.0"
-    local_header_img: /images/concourse.png
+    local_header_img: /images/clound_rings.png
     local_header_title: Concourse for PCF
     search_placeholder: Search Concourse 3.0
     url_prefix: p-concourse/3-0
