@@ -17,5 +17,15 @@ sections:
     ref: '3.x'
   directory: p-concourse/3-0
   subnav_template: concourse-olm-subnav-3-0.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: "3.0"
+    local_header_img: /images/concourse.png
+    local_header_title: Concourse for PCF
+    search_placeholder: Search Concourse 3.0
+    url_prefix: p-concourse/3-0
+    local_product_version: "3.0"
+    local_header_links: []
+    local_header_version_list:
 
 
