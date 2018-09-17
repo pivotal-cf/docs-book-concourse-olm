@@ -24,13 +24,13 @@ sections:
     changelog_href: https://docs.pivotal.io/p-concourse/4-0/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
-    search_placeholder: Search Concourse for PCF 4.0
+    search_placeholder: Search Concourse for PCF v4
     url_prefix: p-concourse/4-0
     local_product_version: 4
     local_header_links: []
     local_header_version_list:
           - url_prefix: http://docs.pivotal.io/p-concourse/3-0
-            display_name: v3
+            display_name: 3
 
 - repository:
     name: pivotal-cf/docs-concourse-olm
@@ -43,11 +43,11 @@ sections:
     changelog_href: https://docs.pivotal.io/p-concourse/3-0/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
-    search_placeholder: Search Concourse v3
+    search_placeholder: Search Concourse for PCF v3
     url_prefix: p-concourse/3-0
     local_product_version: 3
     local_header_links: []
     local_header_version_list:
           - url_prefix: http://docs.pivotal.io/p-concourse/4-0
-            display_name: v4
+            display_name: 4
 
