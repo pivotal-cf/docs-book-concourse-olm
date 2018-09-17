@@ -40,6 +40,7 @@ sections:
   product_info:
     use_local_header: true
     latest_stable_version: "4.0"
+    changelog_href: https://docs.pivotal.io/p-concourse/3-0/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
     search_placeholder: Search Concourse v3
