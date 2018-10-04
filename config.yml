@@ -16,17 +16,17 @@ sections:
 - repository:
     name: pivotal-cf/docs-concourse-olm
     ref: '4.x'
-  directory: p-concourse/4-0
-  subnav_template: concourse-olm-subnav-4-0.erb
+  directory: p-concourse/4-x
+  subnav_template: concourse-olm-subnav-4-x.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 4.0.0
-    changelog_href: https://docs.pivotal.io/p-concourse/4-0/rn.html
+    latest_stable_version: 4.2.1
+    changelog_href: https://docs.pivotal.io/p-concourse/4-x/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
-    search_placeholder: Search Concourse for PCF v4
-    url_prefix: p-concourse/4-0
-    local_product_version: 4
+    search_placeholder: Search Concourse for PCF v4.x
+    url_prefix: p-concourse/4-x
+    local_product_version: 4.x
     local_header_links: []
     local_header_version_list:
           - url_prefix: http://docs.pivotal.io/p-concourse/3-0
@@ -39,7 +39,7 @@ sections:
   subnav_template: concourse-olm-subnav-3-0.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 4.0.0
+    latest_stable_version: 4.2.1
     changelog_href: https://docs.pivotal.io/p-concourse/3-0/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
@@ -48,6 +48,6 @@ sections:
     local_product_version: 3
     local_header_links: []
     local_header_version_list:
-          - url_prefix: http://docs.pivotal.io/p-concourse/4-0
-            display_name: 4
+          - url_prefix: http://docs.pivotal.io/p-concourse/4-x
+            display_name: 4.x
 
