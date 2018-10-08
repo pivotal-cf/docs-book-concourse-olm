@@ -30,7 +30,7 @@ sections:
     local_header_links: []
     local_header_version_list:
           - url_prefix: http://docs.pivotal.io/p-concourse/3-0
-            display_name: 3
+            display_name: 3.x
 
 - repository:
     name: pivotal-cf/docs-concourse-olm
