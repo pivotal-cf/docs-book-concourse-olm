@@ -45,7 +45,7 @@ sections:
     local_header_title: Concourse for PCF
     search_placeholder: Search Concourse for PCF v3
     url_prefix: p-concourse/3-0
-    local_product_version: 3
+    local_product_version: 3.x
     local_header_links: []
     local_header_version_list:
           - url_prefix: http://docs.pivotal.io/p-concourse/4-x
