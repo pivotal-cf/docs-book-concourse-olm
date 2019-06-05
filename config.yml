@@ -19,7 +19,7 @@ sections:
   subnav_template: concourse-olm-subnav-5-n.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 3.0
+    latest_stable_version: 4.0
     changelog_href: https://docs.pivotal.io/p-concourse/5-n/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
