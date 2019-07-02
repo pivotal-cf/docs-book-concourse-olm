@@ -4,4 +4,4 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 }
 
 r301 %r{/p-concourse/3-0/(.*)}, '/p-concourse/3-x/$1'
-r301 %r{/p-concourse/(?![\d-]+)(.*)}, "/p-concourse/4-x/$1"
+r301 %r{/p-concourse/(?![\d-]+)(.*)}, "/p-concourse/5-x/$1"
