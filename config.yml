@@ -15,12 +15,33 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-concourse-olm
+    ref: '5.x'
+  directory: p-concourse/5-x
+  subnav_template: concourse-olm-subnav-5-x.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: 5.2.0
+    changelog_href: https://docs.pivotal.io/p-concourse/5-x/rn.html
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Concourse for PCF
+    search_placeholder: Search Concourse for PCF v5.x
+    url_prefix: p-concourse/5-x
+    local_product_version: 5.x
+    local_header_links: []
+    local_header_version_list:
+          - url_prefix: http://docs.pivotal.io/p-concourse/4-x
+            display_name: 4.x
+          - url_prefix: http://docs.pivotal.io/p-concourse/3-x
+            display_name: 3.x
+
+- repository:
+    name: pivotal-cf/docs-concourse-olm
     ref: '4.x'
   directory: p-concourse/4-x
   subnav_template: concourse-olm-subnav-4-x.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 4.2.1
+    latest_stable_version: 5.2.0
     changelog_href: https://docs.pivotal.io/p-concourse/4-x/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
@@ -29,6 +50,8 @@ sections:
     local_product_version: 4.x
     local_header_links: []
     local_header_version_list:
+          - url_prefix: http://docs.pivotal.io/p-concourse/5-x
+            display_name: 5.x
           - url_prefix: http://docs.pivotal.io/p-concourse/3-x
             display_name: 3.x
 
@@ -39,7 +62,7 @@ sections:
   subnav_template: concourse-olm-subnav-3-x.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 4.2.1
+    latest_stable_version: 5.2.0
     changelog_href: https://docs.pivotal.io/p-concourse/3-x/rn.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Concourse for PCF
@@ -48,5 +71,7 @@ sections:
     local_product_version: 3.x
     local_header_links: []
     local_header_version_list:
+          - url_prefix: http://docs.pivotal.io/p-concourse/5-x
+            display_name: 5.x
           - url_prefix: http://docs.pivotal.io/p-concourse/4-x
             display_name: 4.x
