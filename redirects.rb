@@ -1,5 +1,5 @@
 #===== Temp Redirect to MkDocs =====#
-r302 %r{/p-concourse/(?![\d-]+)(.*)}, "/concourse-pcf/v5/"
+r302 %r{docs.pivotal.io/p-concourse/(?![\d-]+)(.*)}, "docs.pivotal.io/concourse-pcf/v5/"
 
 
 
