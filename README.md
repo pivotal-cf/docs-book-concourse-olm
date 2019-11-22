@@ -1,5 +1,11 @@
 #  Pivotal Concourse OLM Documentation Book
 
+==============================================
+
+**Important Notice:** This book repo is no longer in use. For the current Concourse documentation using MKDocs, see https://github.com/pivotal/docs-concourse-pcf
+
+==============================================
+
 This project can create and publish the documentation for Pivotal Concourse OLM as a web application.
 
 In this topic:
