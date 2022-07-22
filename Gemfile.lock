@@ -162,7 +162,7 @@ GEM
     phantomjs (2.1.1.0)
     public_suffix (2.0.5)
     puma (3.8.2)
-    rack (1.6.5)
+    rack (1.6.13)
     rack-livereload (0.3.16)
       rack
     rack-rewrite (1.5.1)
